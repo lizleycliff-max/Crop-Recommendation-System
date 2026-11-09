@@ -1,0 +1,14 @@
+{
+  "n_num_features": 6,
+  "cat_cardinalities": [
+    29,
+    3,
+    2
+  ],
+  "n_classes": 57,
+  "d_token": 48,
+  "n_layers": 2,
+  "n_heads": 4,
+  "ffn_factor": 2.0,
+  "dropout": 0.1
+}
